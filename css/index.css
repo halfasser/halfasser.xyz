@@ -2,13 +2,14 @@
 html { font-family: 'Arial', sans-serif; }
 
 main {
+  width: 50%;
   margin-top: 100px;
   position: relative;
   left: 25.6%;
 }
 
 article {
-  width: 50%;
+  width: 100%;
 }
 
 i {
@@ -38,8 +39,11 @@ li {
 }
 
 .external {
+  margin:0;
+  padding:0;
+  width: 11.5%;
   position: relative;
-  right: 4.5vw;
+  right: 11.5%;
   float: right;
   font-size: 4vw;
 }
