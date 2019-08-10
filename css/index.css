@@ -1,0 +1,45 @@
+
+html { font-family: 'Arial', sans-serif; }
+
+main {
+  margin-top: 100px;
+  position: relative;
+  left: 25.6%;
+}
+
+article {
+  width: 50%;
+}
+
+i {
+  font-family: "Times New Roman", serif;
+  font-size: 1.2em;
+}
+
+a:hover{
+  color: black;
+}
+
+a {
+  color: blue;
+}
+
+#banner {
+  width:100%;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+li {
+  font-family: "Times New Roman", serif;
+  font-style: italic;
+}
+
+.external {
+  position: relative;
+  right: 4.5vw;
+  float: right;
+  font-size: 4vw;
+}
