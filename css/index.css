@@ -49,3 +49,10 @@ a {
 #banner {
   width:100%;
 }
+
+.construction {
+  position: fixed;
+  width:20%;
+  left: 40%;
+  top: 10px;
+}
